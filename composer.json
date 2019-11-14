@@ -1,6 +1,6 @@
 {
-  "name": "gherkinator/selenium-ide-parser",
-  "description": "Selenium IDE / Gherkin converter",
+  "name": "lmszor/gherkinator",
+  "description": "Selenium IDE / Gherkin converter | Forked, and changed, from https://github.com/salmabenhadjali/gherkinator",
   "license": "GPL-3.0+",
   "require" :{
     "php": " >=5.3.2",
